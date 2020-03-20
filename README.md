@@ -14,7 +14,7 @@ each cell is defined by a value in an array of data.
 2. Open the file `daily-by-year-elevation-graph.scad` using [OpenSCAD](https://openscad.org/).
 
 3. Run the script to see a chart. By default the data is organized into a grid (from the top-down
-   view) somewhat like a GitHub contribution graph. Each row is a week, with days running down
+   view) somewhat like a GitHub contribution graph. Each "column" (y-axis) is a week, with days running down
    from Sunday to Saturday.
 
    ![Example graph rendered in OpenSCAD](assets/daily-by-year-elevation-graph-example.png?raw=true "Example graph rendered in OpenSCAD")
