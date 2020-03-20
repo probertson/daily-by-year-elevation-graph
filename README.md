@@ -39,6 +39,8 @@ My employer, HireVue, Inc., provides an online job interview platform. The
 first version of this was created as a "hack week" project to create 3d-printed
 models of the daily number of interviews, broken out by year.
 
-As mentioned above, part of this code was written as part of my employment with
-with HireVue, Inc. Thanks to them for giving me permission to release this work
-as open source.
+## Credits/Acknowledgements
+
+As mentioned above, the first implementation of this code was written as part of my employment with
+with HireVue, Inc. ([@hirevue](https://github.com/hirevue)). Thanks to them for giving me permission to release this work
+as open source. It's a great place to work -- check us out!
