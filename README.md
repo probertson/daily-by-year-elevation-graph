@@ -42,5 +42,4 @@ models of the daily number of interviews, broken out by year.
 ## Credits/Acknowledgements
 
 As mentioned above, the first implementation of this code was written as part of my employment with
-with HireVue, Inc. ([@hirevue](https://github.com/hirevue)). Thanks to them for giving me permission to release this work
-as open source. It's a great place to work -- check us out!
+with HireVue, Inc. ([@hirevue](https://github.com/hirevue)). Credit to [@tomstroman](https://github.com/tomstroman) for the idea. Thanks to HireVue for giving me permission to release this work as open source. It's a great place to work -- check us out!
